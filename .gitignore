@@ -1,0 +1,17 @@
+.gradle/
+/local.properties
+/.idea/
+/.vscode/
+/build/
+*/build/
+*.iml
+.gradle
+/local.properties
+
+# Keystore
+*.jks
+*.keystore
+
+# Mac
+.DS_Store
+
